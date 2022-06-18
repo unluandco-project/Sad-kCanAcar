@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnluCoProject", "UnluCoProject\UnluCoProject.csproj", "{054D6005-5E53-4DD7-9A69-8136E8E20CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054D6005-5E53-4DD7-9A69-8136E8E20CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054D6005-5E53-4DD7-9A69-8136E8E20CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054D6005-5E53-4DD7-9A69-8136E8E20CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054D6005-5E53-4DD7-9A69-8136E8E20CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9CB39B4-BC6E-49CC-A780-17B41163C352}
+	EndGlobalSection
+EndGlobal
